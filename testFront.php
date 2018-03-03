@@ -195,10 +195,7 @@ $( document ).ready( function(){
 
 
 
-// var purchase, sendDB;
-// sendDB = [{"item":"Boots", "price":100},{"item":"Phone", "price":800},{"item":"AK","price":600}];
-//
-// sendDB = JSON.stringify(sendDB);
+
 
 
 /***********************************    Data Exchange  End   *****************/
